@@ -1,0 +1,27 @@
+# ===========================
+# Streaming Services Bypass List
+# Auto-updated via GitHub
+# ===========================
+
+# --- AbemaTV ---
+abema.tv
+abematv.akamaized.net
+
+# --- Disney+ ---
+disneyplus.com
+bamgrid.com
+bam.nr-data.net
+
+# --- Amazon Prime Video ---
+primevideo.com
+media-amazon.com
+amazonvideo.com
+
+# --- Hulu Japan ---
+happyon.jp
+hulu.jp
+
+# --- DAZN ---
+dazn.com
+dazn-api.com
+dazn-event.com
