@@ -1,0 +1,54 @@
+# === 基本Google系 ===
+google.com
+googleapis.com
+gstatic.com
+googleusercontent.com
+firebaseio.com
+fcm.googleapis.com
+
+# === Gmail ===
+gmail.com
+
+# === ドコモ系 ===
+docomo.ne.jp
+dwmail.jp
+vmall.ne.jp
+
+# === 地図 ===
+maps.googleapis.com
+maps.google.com
+
+# === 見守り系 ===
+cocodayo.jp
+api.cocodayo.jp
+findmykids.org
+geo.findmykids.org
+
+# === 医療 ===
+fastdoctor.jp
+api.fastdoctor.jp
+cloudfront.net
+
+# === 防災・天気 ===
+nerv.app
+api.nerv.app
+pubnub.com
+
+city.kanazawa.lg.jp
+hazardmap.pref.ishikawa.jp
+
+nhk.jp
+nhk.or.jp
+nhk-ondemand.jp
+nhk-android.jp
+
+wni.jp
+weathernews.jp
+api.wni.co.jp
+
+tenki.jp
+static.tenki.jp
+
+# === TimeTree ===
+timetreeapp.com
+api.timetreeapp.com
