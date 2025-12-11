@@ -8,6 +8,12 @@
 ###############################################
 abema.tv
 abematv.akamaized.net
+abematv-vod.akamaized.net
+ds-linear-abematv.akamaized.net
+vod-abematv.akamaized.net
+linear-abematv.akamaized.net
+abematv.akamaized.net
+abema-anime.akamaized.net
 
 ###############################################
 # Disney+
@@ -15,6 +21,9 @@ abematv.akamaized.net
 disneyplus.com
 bamgrid.com
 bam.nr-data.net
+dssott.com
+execute-api.ap-northeast-1.amazonaws.com
+cdn.registerdisney.go.com
 
 ###############################################
 # Amazon Prime Video
@@ -22,12 +31,21 @@ bam.nr-data.net
 primevideo.com
 media-amazon.com
 amazonvideo.com
+cloudfront.net
+aiv-cdn.net
+amazonaws.com
+ssl-images-amazon.com
+fls-na.amazon.com
 
 ###############################################
 # Hulu Japan
 ###############################################
 happyon.jp
 hulu.jp
+huluim.com
+hulustream.com
+stream.hulu.jp
+assets.huluim.com
 
 ###############################################
 # DAZN
@@ -35,3 +53,7 @@ hulu.jp
 dazn.com
 dazn-api.com
 dazn-event.com
+dazn.map.fastly.net
+dcblive-dzn.map.fastly.net
+dcevent-dzn.map.fastly.net
+cdn.dazn.com
