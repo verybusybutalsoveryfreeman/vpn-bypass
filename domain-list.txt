@@ -1,27 +1,37 @@
-# ===========================
-# Streaming Services Bypass List
-# Auto-updated via GitHub
-# ===========================
+# ============================================
+# Streaming Services - VPN Bypass Domain List
+# Managed by GitHub (Subscription URL)
+# ============================================
 
-# --- AbemaTV ---
+###############################################
+# AbemaTV
+###############################################
 abema.tv
 abematv.akamaized.net
 
-# --- Disney+ ---
+###############################################
+# Disney+
+###############################################
 disneyplus.com
 bamgrid.com
 bam.nr-data.net
 
-# --- Amazon Prime Video ---
+###############################################
+# Amazon Prime Video
+###############################################
 primevideo.com
 media-amazon.com
 amazonvideo.com
 
-# --- Hulu Japan ---
+###############################################
+# Hulu Japan
+###############################################
 happyon.jp
 hulu.jp
 
-# --- DAZN ---
+###############################################
+# DAZN
+###############################################
 dazn.com
 dazn-api.com
 dazn-event.com
