@@ -1,4 +1,4 @@
-# === 基本Google系 ===
+# === Google 基本系 ===
 google.com
 googleapis.com
 gstatic.com
@@ -9,7 +9,7 @@ fcm.googleapis.com
 # === Gmail ===
 gmail.com
 
-# === ドコモ系 ===
+# === ドコモ系（必要最低限） ===
 docomo.ne.jp
 dwmail.jp
 vmall.ne.jp
