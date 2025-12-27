@@ -57,4 +57,3 @@ dazn.map.fastly.net
 dcblive-dzn.map.fastly.net
 dcevent-dzn.map.fastly.net
 cdn.dazn.com
-example.com
