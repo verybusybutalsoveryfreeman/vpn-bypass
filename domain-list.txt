@@ -42,9 +42,11 @@ fls-na.amazon.com
 ###############################################
 hulu.jp
 hjholdings.tv
+hjholdings.jp
+happyon.jp
+streaks.jp
+yb.uncn.jp
 hulup.silveregg.net
-ifconfig.me
-34.160.111.145
 
 ###############################################
 # DAZN
