@@ -40,16 +40,11 @@ fls-na.amazon.com
 ###############################################
 # Hulu Japan
 ###############################################
-happyon.jp
-hulu.jp
-huluim.com
-hulustream.com
-stream.hulu.jp
-assets.huluim.com
-playback.prod.hjholdings.tv
-mapi.prod.hjholdings.tv
-p-api.prod.hjholdings.tv
+hjholdings.tv
 hulup.silveregg.net
+variants.streaks.jp
+manifest.streaks.jp
+bees.streaks.jp
 
 ###############################################
 # DAZN
