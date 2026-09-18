@@ -42,9 +42,6 @@ fls-na.amazon.com
 ###############################################
 hjholdings.tv
 hulup.silveregg.net
-variants.streaks.jp
-manifest.streaks.jp
-bees.streaks.jp
 
 ###############################################
 # DAZN
