@@ -46,6 +46,8 @@ huluim.com
 hulustream.com
 stream.hulu.jp
 assets.huluim.com
+playback.prod.hjholdings.tv
+mapi.prod.hjholdings.tv
 
 ###############################################
 # DAZN
