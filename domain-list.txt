@@ -48,6 +48,8 @@ stream.hulu.jp
 assets.huluim.com
 playback.prod.hjholdings.tv
 mapi.prod.hjholdings.tv
+p-api.prod.hjholdings.tv
+hulup.silveregg.net
 
 ###############################################
 # DAZN
