@@ -44,6 +44,7 @@ hulu.jp
 hjholdings.tv
 hulup.silveregg.net
 ifconfig.me
+34.160.111.145
 
 ###############################################
 # DAZN
