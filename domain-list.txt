@@ -43,6 +43,7 @@ fls-na.amazon.com
 hulu.jp
 hjholdings.tv
 hulup.silveregg.net
+ifconfig.me
 
 ###############################################
 # DAZN
