@@ -40,6 +40,7 @@ fls-na.amazon.com
 ###############################################
 # Hulu Japan
 ###############################################
+hulu.jp
 hjholdings.tv
 hulup.silveregg.net
 
