@@ -47,6 +47,7 @@ happyon.jp
 streaks.jp
 yb.uncn.jp
 hulup.silveregg.net
+travel.fraudprevention.jp
 
 ###############################################
 # DAZN
